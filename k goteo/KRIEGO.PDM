@@ -1,0 +1,1703 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 2
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SET2017
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\dbgrid32.ocx=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\MSFlxGrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDES.DLL=Yes
+C:\Windows\SysWOW64\MSChrt20.ocx=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\dbgrid32.ocx=Yes
+C:\Windows\SysWOW64\DBGRDES.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSFlxGrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSChrt20.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\dbgrid32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DBGRDES.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=KRIEGO
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=KRIEGO
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|KRIEGO]
+Icon1=KRIEGO.exe
+Title1=KRIEGO
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|NINGUNO|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SET2017
+
+[Package|NINGUNO|Configure DAO ISAMs]
+Applicable=No
+
+[Package|NINGUNO|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|NINGUNO|Files Found]
+
+[Package|NINGUNO|Files Released]
+
+[Package|NINGUNO|Missing Dependency Information]
+
+[Package|NINGUNO|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\dbgrid32.ocx=
+
+[Package|NINGUNO|Files Added]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=
+
+[Package|NINGUNO|Files Removed]
+
+[Package|NINGUNO|Files In Project]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\MSFlxGrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDES.DLL=Yes
+C:\Windows\SysWOW64\MSChrt20.ocx=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\dbgrid32.ocx=Yes
+C:\Windows\SysWOW64\DBGRDES.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=Yes
+
+[Package|NINGUNO|Configure Registry Files]
+Applicable=No
+
+[Package|NINGUNO|Configure Remote Servers]
+Applicable=No
+
+[Package|NINGUNO|Install Locations]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSFlxGrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSChrt20.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\dbgrid32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DBGRDES.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=$(AppPath)
+
+[Package|NINGUNO|Configure Shared Files]
+Applicable=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=No
+
+[Package|NINGUNO|Distribution]
+Type=single
+Size=
+Title=KRIEGO
+
+[Package|NINGUNO|IconGroups]
+Group0=KRIEGO
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|NINGUNO|KRIEGO]
+Icon1=KRIEGO.exe
+Title1=KRIEGO
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|RIEGO|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO
+
+[Package|RIEGO|Configure DAO ISAMs]
+Applicable=No
+
+[Package|RIEGO|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|RIEGO|Files Found]
+
+[Package|RIEGO|Files Released]
+
+[Package|RIEGO|Missing Dependency Information]
+
+[Package|RIEGO|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\dbgrid32.ocx=
+
+[Package|RIEGO|Files Added]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=
+
+[Package|RIEGO|Files Removed]
+
+[Package|RIEGO|Files In Project]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\MSFlxGrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDES.DLL=Yes
+C:\Windows\SysWOW64\MSChrt20.ocx=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\dbgrid32.ocx=Yes
+C:\Windows\SysWOW64\DBGRDES.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=Yes
+
+[Package|RIEGO|Configure Registry Files]
+Applicable=No
+
+[Package|RIEGO|Configure Remote Servers]
+Applicable=No
+
+[Package|RIEGO|Install Locations]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSFlxGrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSChrt20.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\dbgrid32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DBGRDES.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=$(AppPath)
+
+[Package|RIEGO|Configure Shared Files]
+Applicable=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=No
+
+[Package|RIEGO|Distribution]
+Type=single
+Size=
+Title=PROYECTO1
+
+[Package|RIEGO|IconGroups]
+Group0=KRIEGO
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|RIEGO|KRIEGO]
+Icon1=KRIEGO.exe
+Title1=KRIEGO
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=KRIEGO.exe
+Title2=Icon7
+StartIn2=$(AppPath)
+Key2=Icon7
+
+[Package|SECUENCIA COMANDOS 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO
+
+[Package|SECUENCIA COMANDOS 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SECUENCIA COMANDOS 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SECUENCIA COMANDOS 1|Files Found]
+
+[Package|SECUENCIA COMANDOS 1|Files Released]
+
+[Package|SECUENCIA COMANDOS 1|Missing Dependency Information]
+
+[Package|SECUENCIA COMANDOS 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\dbgrid32.ocx=
+
+[Package|SECUENCIA COMANDOS 1|Files Added]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=
+
+[Package|SECUENCIA COMANDOS 1|Files Removed]
+
+[Package|SECUENCIA COMANDOS 1|Files In Project]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\MSFlxGrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDES.DLL=Yes
+C:\Windows\SysWOW64\MSChrt20.ocx=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\dbgrid32.ocx=Yes
+C:\Windows\SysWOW64\DBGRDES.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=Yes
+
+[Package|SECUENCIA COMANDOS 1|Configure Registry Files]
+Applicable=No
+
+[Package|SECUENCIA COMANDOS 1|Configure Remote Servers]
+Applicable=No
+
+[Package|SECUENCIA COMANDOS 1|Install Locations]
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSFlxGrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSChrt20.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\dbgrid32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DBGRDES.DLL=$(WinSysPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=$(AppPath)
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=$(AppPath)
+
+[Package|SECUENCIA COMANDOS 1|Configure Shared Files]
+Applicable=Yes
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=No
+D:\data   d\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=No
+
+[Package|SECUENCIA COMANDOS 1|Distribution]
+Type=single
+Size=
+Title=PROYECTO1
+
+[Package|SECUENCIA COMANDOS 1|IconGroups]
+Group0=KRIEGO
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|SECUENCIA COMANDOS 1|KRIEGO]
+Icon1=KRIEGO.exe
+Title1=KRIEGO
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=KRIEGO.exe
+Title2=Icon7
+StartIn2=$(AppPath)
+Key2=Icon7
+
+
+[Package|Paquete de instalación estándar 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Paquete (2)\CURSO JULIO
+
+[Package|Paquete de instalación estándar 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 2|Files Found]
+
+[Package|Paquete de instalación estándar 2|Files Released]
+
+[Package|Paquete de instalación estándar 2|Missing Dependency Information]
+C:\Windows\SysWOW64\dbgrid32.ocx=
+
+[Package|Paquete de instalación estándar 2|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\msflxgrd.ocx=
+
+[Package|Paquete de instalación estándar 2|Files Added]
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_auto.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HORO.ICO=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\WATER.ICO=
+
+[Package|Paquete de instalación estándar 2|Files Removed]
+
+[Package|Paquete de instalación estándar 2|Files In Project]
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\msflxgrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDES.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\dbgrid32.ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_auto.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HORO.ICO=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\WATER.ICO=Yes
+
+[Package|Paquete de instalación estándar 2|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Install Locations]
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msflxgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\dbgrid32.ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_auto.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HORO.ICO=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=$(AppPath)
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\WATER.ICO=$(AppPath)
+
+[Package|Paquete de instalación estándar 2|Configure Shared Files]
+Applicable=Yes
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\KRIEGO.exe=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillohidro.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_auto.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\anillos_manual.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B1.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B2.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B3.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B4.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B5.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B6.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B7.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B8.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\B9.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bom2.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM3.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\BOM4.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\bqto_agosto.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Calc.ico=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\CANALES.mdb=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\caña2.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\chinecas.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\epg.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\goteo marzo 15.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava_grafico.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\grava001.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA1.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA2.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\GRAVA3.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HIDROCICLON_GRAFICO.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\HORO.ICO=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\ImageEPG.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inyconbombam.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipico.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\inytipicom.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\kerla.dat=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lamina1.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\lateral.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\malla_grafico.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MANUAL_ANILLO.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\MATERIA.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materia1.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\materiaorg.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\parshall.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\rbc.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\recta.bmp=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\REGEOM1.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RESER.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\RET_ANILLO.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\retrotipico.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sal_goteo.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\sist_fert.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\succion_bomba.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\SYSTE.W32=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN1.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TAN2.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\TANQUE.JPG=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tarapaca.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\trape.bmp=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\tria.bmp=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\una.jpg=No
+E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\WATER.ICO=No
+
+[Package|Paquete de instalación estándar 2|Distribution]
+Type=single
+Size=
+Title=KRIEGO
+
+[Package|Paquete de instalación estándar 2|IconGroups]
+Group0=KRIEGO
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 2|KRIEGO]
+Icon1=KRIEGO.exe
+Title1=KRIEGO
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 2|Package]
+PackageFolder=E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Paquete (2)\CURSO JULIO
+ProjectFolder=E:\ZKERLA\FUENTES\goteo\goteo  marzo2015
+ServerSideCab=
+File1=E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Paquete (2)\CURSO JULIO\setup.exe
+File2=E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Paquete (2)\CURSO JULIO\Setup.Lst
+File3=E:\ZKERLA\FUENTES\goteo\goteo  marzo2015\Paquete (2)\CURSO JULIO\KRIEGO.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

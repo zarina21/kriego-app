@@ -1,0 +1,5 @@
+Línea 35: la propiedad ItemData de cbogradiente tenía una referencia a archivo no válida.
+Línea 37: la propiedad List de cbogradiente tenía una referencia a archivo no válida.
+Línea 294: la propiedad Bindings de DBGrid1 tenía una referencia a archivo no válida.
+Línea 297: la propiedad OleObjectBlob de DBGrid1 tenía una referencia a archivo no válida.
+Línea 293: no se puede cargar el control DBGrid1.
