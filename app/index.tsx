@@ -35,7 +35,7 @@ export default function MenuPrincipal() {
         <Button title="Calidad de Agua" onPress={() => router.push("/calidad-agua")} />
       </View>
       <View style={styles.buttonContainer}>
-        <Button title="Calidad de Agua Avanzada" onPress={() => router.push("/calidad-agua-avanzada")} />
+        <Button title="Calidad de Agua" onPress={() => router.push("/agua")} />
       </View>
       <View style={styles.buttonContainer}>
         <Button title="Clasificación de Calidad de Agua" onPress={() => router.push("/calidad-agua-clasificacion")} />

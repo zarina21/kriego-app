@@ -36,6 +36,9 @@ export default function AgronomicoMenu() {
         <Button title="Pérdidas Secundaria 2" onPress={() => router.push('/agronomico/perdidas-secundaria2')} />
       </View>
       <View style={styles.buttonContainer}>
+        <Button title="Pérdidas Secundaria varios" onPress={() => router.push('/agronomico/perdidas-secundaria-varios')} />
+      </View>
+      <View style={styles.buttonContainer}>
         <Button title="Análisis Terciaria" onPress={() => router.push('/agronomico/analisis-terciaria')} />
       </View>
       {/* Agrega aquí más botones si tienes más secciones */}

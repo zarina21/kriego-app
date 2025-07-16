@@ -1,23 +1,36 @@
-// Ejemplo para cualquier pantalla, por ejemplo: app/salir.tsx
+import { useRouter } from "expo-router";
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Button, StyleSheet, View } from 'react-native';
+
+
 
 export default function SalirScreen() {
+  const router = useRouter();
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Pantalla: Salir</Text>
+      <View style={styles.buttonContainer}>
+        <Button title="Parshall" onPress={() => router.push("/agronomico/estructuras/aforadores/parshall")} />
+      </View>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
+
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "#fff",
+    padding: 20,
   },
-  text: {
-    fontSize: 22,
-    fontWeight: 'bold',
+  title: {
+    fontSize: 28,
+    fontWeight: "bold",
+    marginBottom: 40,
+  },
+  buttonContainer: {
+    marginBottom: 15,
+    width: '100%',
   },
 });

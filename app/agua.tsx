@@ -65,20 +65,23 @@ export default function CalidadAguaAvanzada() {
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>Análisis Avanzado de Calidad de Agua</Text>
+      <Text style={styles.title}>Calidad del Agua, Precipitados</Text>
       <Text style={styles.section}>Toxicidad (Plantas Sensibles)</Text>
+      <Text>Sodio: Indica la concentración de sodio en el agua (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={sodio.toString()}
         onChangeText={(t: string) => setSodio(Number(t))}
         placeholder="Sodio (mg/L)"
       />
+      <Text>Cloro: Indica la concentración de cloro en el agua (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={cloro.toString()}
         onChangeText={(t: string) => setCloro(Number(t))}
         placeholder="Cloro (mg/L)"
       />
+      <Text>Boro: Indica la concentración de boro en el agua (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={boro.toString()}
@@ -86,18 +89,21 @@ export default function CalidadAguaAvanzada() {
         placeholder="Boro (mg/L)"
       />
       <Text style={styles.section}>Precipitados (Boletín 258)</Text>
+      <Text>Dureza: Indica la dureza total del agua (mg/L CaCO₃)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={dureza.toString()}
         onChangeText={(t: string) => setDureza(Number(t))}
         placeholder="Dureza (mg/L CaCO₃)"
       />
+      <Text>pH: Indica el nivel de acidez o alcalinidad del agua</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={pH.toString()}
         onChangeText={(t: string) => setPH(Number(t))}
         placeholder="pH"
       />
+      <Text>STD: Sólidos totales disueltos (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={std.toString()}
@@ -105,12 +111,14 @@ export default function CalidadAguaAvanzada() {
         placeholder="STD (mg/L)"
       />
       <Text style={styles.section}>Salinidad</Text>
+      <Text>Consultores U.C.: Conductividad eléctrica según consultores UC (uS/cm)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={consultoresUC.toString()}
         onChangeText={(t: string) => setConsultoresUC(Number(t))}
         placeholder="Consultores U.C. (uS/cm)"
       />
+      <Text>FAO: Conductividad eléctrica según FAO (uS/cm)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={fao.toString()}
@@ -118,6 +126,7 @@ export default function CalidadAguaAvanzada() {
         placeholder="FAO (uS/cm)"
       />
       <Text style={styles.section}>RAS</Text>
+      <Text>RAS: Relación de adsorción de sodio</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={ras.toString()}
@@ -125,24 +134,28 @@ export default function CalidadAguaAvanzada() {
         placeholder="RAS"
       />
       <Text style={styles.section}>Clasificación avanzada</Text>
+      <Text>TDS: Sólidos totales disueltos (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={tds.toString()}
         onChangeText={(t: string) => setTDS(Number(t))}
         placeholder="TDS (mg/L)"
       />
+      <Text>Hierro/Manganeso: Concentración de hierro y manganeso (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={hierroManganeso.toString()}
         onChangeText={(t: string) => setHierroManganeso(Number(t))}
         placeholder="Hierro/Manganeso (mg/L)"
       />
+      <Text>Bacterias: Unidades formadoras de colonias (UFC/mL)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={bacterias.toString()}
         onChangeText={(t: string) => setBacterias(Number(t))}
         placeholder="Bacterias (UFC/mL)"
       />
+      <Text>Sólidos en suspensión: Partículas sólidas no disueltas (mg/L)</Text>
       <CustomTextInput
         keyboardType="numeric"
         value={solidosSuspension.toString()}
